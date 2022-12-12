@@ -3,7 +3,6 @@ from glob import glob
 import glob,os
 import matplotlib.pyplot as plt
 import math
-
 import bs4
 import matplotlib.pyplot as plt
 import pandas as pd
