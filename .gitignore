@@ -15,3 +15,23 @@
 *.jfif
 *.jfi
 
+#ignore dbf
+*.dbf
+
+#ignore prj
+*prj
+
+#ignore sbn
+*.sbn
+
+#ignore sbx
+*.sbx
+
+#ignore shx
+*.shx
+
+#ignore shp
+*.shp
+
+#ignore csv
+*.csv
