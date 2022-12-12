@@ -1,0 +1,17 @@
+#ignore all parquet files
+*.parquet
+
+#ignore db files
+*Db.*
+
+#ignore pngs
+*.png
+
+#ignore jpegs
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
